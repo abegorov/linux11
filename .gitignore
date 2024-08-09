@@ -1,0 +1,4 @@
+.vagrant
+.vscode
+serial_socket
+serial_pty
